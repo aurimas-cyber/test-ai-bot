@@ -1,1 +1,1 @@
-# test-ai-bot
+# This is a placeholder for README.md
